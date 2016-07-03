@@ -1,0 +1,20 @@
+{
+  "name": "simon-says-blogposts",
+  "version": "1.0.0",
+  "description": "The blog posts presented on the blog",
+  "main": "README.md",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "blog",
+    "markdown",
+    "simon",
+    "says",
+    "simon-says",
+    "simon",
+    "johansson"
+  ],
+  "author": "@simonlovesyou",
+  "license": "MIT"
+}
