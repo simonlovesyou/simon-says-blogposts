@@ -15,6 +15,41 @@
     "simon",
     "johansson"
   ],
+  "_blogPosts": {
+      "ux": [
+        "Intro",
+        "Competition Analysis",
+        "Personas",
+        "Wireframes",
+        "Red routes",
+        "User flows",
+        "Prototyping",
+        "IA",
+        "Design guidelines",
+        "Layout",
+        "Typography"
+      ],
+      "dev": [
+        "Intro",
+        "Stack",
+        "Build tools",
+        "Logic"
+      ]
+    },
   "author": "@simonlovesyou",
   "license": "MIT"
 }
+
+
+Competitive Analysis
+ - Personas
+ - User flows
+ - Red routes
+ - Brainstorm
+ - Wireframe
+ - Prototyping
+ - IA
+ - Design guidelines
+ - Layout
+ - Typography
+ - Etc
